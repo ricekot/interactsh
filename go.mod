@@ -7,7 +7,7 @@ require (
 	github.com/eggsampler/acme/v3 v3.2.1
 	github.com/google/uuid v1.2.0
 	github.com/jasonlvhit/gocron v0.0.1
-	github.com/json-iterator/go v1.1.11
+	github.com/json-iterator/go v1.1.12
 	github.com/karlseguin/ccache/v2 v2.0.8
 	github.com/miekg/dns v1.1.43
 	github.com/pkg/errors v0.9.1
