@@ -34,7 +34,7 @@ require (
 	github.com/projectdiscovery/stringsutil v0.0.0-20210823090203-2f5f137e8e1d
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/rogpeppe/go-internal v1.8.0 // indirect
-	github.com/rs/xid v1.3.0
+	github.com/rs/xid v1.4.0
 	github.com/stretchr/testify v1.7.0
 	go.etcd.io/bbolt v1.3.6 // indirect
 	golang.org/x/exp v0.0.0-20210826195003-46c773283d9d // indirect
